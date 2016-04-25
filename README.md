@@ -1,0 +1,3 @@
+# nerds
+Trai
+ning project
